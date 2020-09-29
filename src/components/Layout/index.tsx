@@ -10,6 +10,8 @@ const Layout: React.FC = () => {
     <Container>
       <main>
         <LeftColumn />
+        <MiddleColumn />
+        <RightColumn />
       </main>
     </Container>
   )
